@@ -64,12 +64,11 @@ SCAN :
 
 <br>
 <p align="center">
-<img width="48%" src="https://user-images.githubusercontent.com/49580304/96668874-f114aa80-1310-11eb-870e-4f5371f710f4.jpg"/>
-<img width="50%" src="https://user-images.githubusercontent.com/49580304/96668871-ef4ae700-1310-11eb-9549-cde33ef19a71.jpg"/>
+<img width="70%" src="https://github.com/user-attachments/assets/30f68a96-06eb-4e2e-b8bd-833f12a7d08a"/>
 </p>
 
-## WATCH VIDEO [Termux]
+## ⚠️ DISCLAIMER
 
-[![des](https://user-images.githubusercontent.com/49580304/96466915-3c2ea080-11df-11eb-8328-100ca165c12c.jpg)](https://rebrand.ly/rcentvideo)
+NetMapper is created for educational purposes only.
 
-## CONNECT WITH US :
+This tool is designed for network administrators, security researchers, and cybersecurity enthusiasts to analyze and understand network infrastructures. The developers assume no liability and are not responsible for any misuse or damage caused by this program. Use responsibly and ethically.
