@@ -52,7 +52,7 @@ NetMapper is a lightweight Python script designed for IP lookup and gathering de
 * cd NetMapper
 * ls
 * python NetMapper.py -v (your victim ip here)
-ex:- python NetMapper.py -v 127.0,0.1
+ex:- python netmapper.py -v 127.0,0.1
 
 
 ## USAGE OPTIONS [Termux] :
