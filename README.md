@@ -1,7 +1,7 @@
 
 <p align="center">
 <a href="https://github.com/J4XD"><img src="https://img.shields.io/badge/Tool-Ipdrone-green.svg"></a>
-<a href="https://github.com/J4XD"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
+<a href="https://github.com/J4XD"><img title="Version" src="https://img.shields.io/badge/Version-2.0-green.svg?style=flat-square"></a>
 <a href="https://github.com/J4XD"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
   
 </p>
