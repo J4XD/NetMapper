@@ -11,10 +11,6 @@
 </p>
 
 <p align="center">
-  <img title="NetMapper" src="https://github.com/user-attachments/assets/e9f8884c-854c-4089-a274-c51be25e335a"/>
-</p>
-
-<p align="center">
   <a href="https://github.com/J4XD"><img src="https://img.shields.io/badge/Coded_by-J4XD-00ff41?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=000000"/></a>
 </p>
 
@@ -137,7 +133,7 @@ python netmapper.py 8.8.8.8 --json | jq .country
 ## `> screenshots`
 
 <p align="center">
-  <img width="70%" src="https://github.com/user-attachments/assets/30f68a96-06eb-4e2e-b8bd-833f12a7d08a"/>
+  <img width="85%" src="assets/screenshot.png" alt="NetMapper v3.0 running in a terminal"/>
 </p>
 
 ---
