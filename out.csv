@@ -1,2 +1,0 @@
-query,input,reverse,isp,org,as,asname,continent,country,countryCode,regionName,city,district,zip,lat,lon,timezone,currency,mobile,proxy,hosting,maps
-8.8.8.8,dns.example,dns.google,Google LLC,Google Public DNS,AS15169 Google LLC,GOOGLE,North America,United States,US,California,Mountain View,,94043,37.4,-122.1,America/Los_Angeles,USD,False,False,True,"https://www.google.com/maps?q=37.4,-122.1"
